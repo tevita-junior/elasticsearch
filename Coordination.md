@@ -55,6 +55,7 @@ Issue number: group name (no links to elasticsearch, just the number - sort by i
 * 22870: Group SmallBit
 * 22881: JavaGeeks
 * 23044: marathon
+* 23131: Random 2
 * 23193: 100
 * 23208: java ych
 * 23231: Random 2
@@ -69,4 +70,3 @@ Issue number: group name (no links to elasticsearch, just the number - sort by i
 * 23650: Random 1
 * 23664: Random 1
 * 23673: Random 1
-* 23687: Random 2
