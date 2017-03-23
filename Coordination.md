@@ -22,7 +22,6 @@ Issue number: group name (no links to elasticsearch, just the number - sort by i
 * 15425: The code less traveled
 * 15816: Group 1
 * 15965: Random 2
-* 16564: Oink
 * 16641: Your Choice
 * 16671: Honey Boo Boo Fan Club
 * 17597: 100
