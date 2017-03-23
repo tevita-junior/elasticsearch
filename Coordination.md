@@ -7,6 +7,7 @@ Issue number: group name (no links to elasticsearch, just the number - sort by i
 * 7601: JAH
 * 8217: Rocky Road
 * 8362: 1337
+* 9373: Random 2
 * 9538: Krispy Belgian Cookies
 * 10096: jk
 * 10441: The Best Engineers, The Best
@@ -54,7 +55,6 @@ Issue number: group name (no links to elasticsearch, just the number - sort by i
 * 22870: Group SmallBit
 * 22881: JavaGeeks
 * 23044: marathon
-* 23131: Random 2
 * 23193: 100
 * 23208: java ych
 * 23231: Random 2
